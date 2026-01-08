@@ -1,0 +1,70 @@
+{
+    "contacts": [
+        {
+            "first_name": "Ali",
+            "last_name": "Khan",
+            "phone": "03011234567",
+            "email": "ali.khan@gmail.com"
+        },
+        {
+            "first_name": "Ahmed",
+            "last_name": "Raza",
+            "phone": "03124567890",
+            "email": "ahmed.raza@gmail.com"
+        },
+        {
+            "first_name": "Sara",
+            "last_name": "Malik",
+            "phone": "03219876543",
+            "email": "sara.malik@gmail.com"
+        },
+        {
+            "first_name": "Ayesha",
+            "last_name": "Iqbal",
+            "phone": "03337654321",
+            "email": "ayesha.iqbal@gmail.com"
+        },
+        {
+            "first_name": "Hassan",
+            "last_name": "Sheikh",
+            "phone": "03451239876",
+            "email": "hassan.sheikh@gmail.com"
+        },
+        {
+            "first_name": "Usman",
+            "last_name": "Farooq",
+            "phone": "03029874561",
+            "email": "usman.farooq@gmail.com"
+        },
+        {
+            "first_name": "Fatima",
+            "last_name": "Noor",
+            "phone": "03117894562",
+            "email": "fatima.noor@gmail.com"
+        },
+        {
+            "first_name": "Bilal",
+            "last_name": "bilal",
+            "phone": "03224569871",
+            "email": "bilal.hussain@gmail.com"
+        },
+        {
+            "first_name": "Zain",
+            "last_name": "Ahmed",
+            "phone": "03338971234",
+            "email": "zain.ahmed@gmail.com"
+        },
+        {
+            "first_name": "Mariam",
+            "last_name": "Shah",
+            "phone": "03455678912",
+            "email": "mariam.shah@gmail.com"
+        },
+        {
+            "first_name": "Hamza",
+            "last_name": "Ali",
+            "phone": "03098765432",
+            "email": "hamza.ali@gmail.com"
+        }
+    ]
+}
